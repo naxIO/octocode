@@ -1,27 +1,27 @@
-## Welcome to GitHub Pages
+## Find a new belonging. 
 
-### Markdown
+We are developers and fed up with all the recruiters and bad jobs. That's why we are now turning the tables.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# How it works:
 
-```markdown
-Syntax highlighted code block
+**1. We dont work or search for companies. We work for developers only.**
 
-# Header 1
-## Header 2
-### Header 3
+**2. We thoroughly investigate the companies we recommend beforehand.**
 
-- Bulleted
-- List
+**3. Most important for us:**
 
-1. Numbered
-2. List
+- remote work
+- meaningful company mission
+- good error culture
+- mostly async work environment
+- modern tech stack
+- agile development / CI / clean code and test coverage
+- personal development opportunities
+- compensation
+- perks 
 
-**Bold** and _Italic_ and `Code` text
+For example, the development culture is 10 times more important to us than any fruit baskets or team drinks.
 
-[Link](url) and ![Image](src)
-```
+**4. We help you to get an overview of the market and to accompany and develop you in the long term.**
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-
+**5. We donate 10% of our profits to OpenSource projects around the world. We always welcome suggestions!**
